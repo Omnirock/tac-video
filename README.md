@@ -1,5 +1,5 @@
 # Theseus Video Promo 01  
-Work for first promotional video.
+Work for first promotional video. List of scenes and overview.
 
 
 ## Scene List
@@ -22,9 +22,12 @@ Work for first promotional video.
 **Training Scenes**  
  All Training Scenes will take place on Olympus. 
 
-**Battle Scenes**  
+**Battle Scenes**    
+To be discussed.
+
 Urban Scene:  
 Jungle Scene:  
 Middle East Scene:   
 
 **Other Scenes**  
+To be discussed.
